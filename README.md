@@ -1,6 +1,6 @@
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-# ACNS JavaScript Style Guide() {
+# Liga:Zakon JavaScript Style Guide() {
 
 *Good codestyle gives you superpower!*
 
@@ -1209,7 +1209,7 @@
   
 **[⬆ back to top](#table-of-contents)**
 
-###NS Best Practices
+###LZ Best Practices
   - Use utf-8 for templates.
   - 
 **[⬆ back to top](#table-of-contents)**
