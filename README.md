@@ -1185,27 +1185,23 @@
 
 **[⬆ back to top](#table-of-contents)**
 
-##NS specific
+##LZ specific
 
 ###File Naming Conventions
 
-   * Models: nameLikeThis.Model.js
-   * Views: nameLikeThis.View.js
-   * Collections: nameLikeThis.Collection.js
-   * Routers: nameLikeThis.Router.js
-   * Templates: name_like_this.txt
-   * Services:  name-like-this.ss
-   * Skins:  name-like-this.css
-   * SSP_libraries: NameLikeThis.js
-   * Suitelets:  moduleName_suitescripttype_suitescriptName.js
-   * SSP files: name-like-this.ssp
-   
+   * Controller: nameLikeThis.controller.js
+   * Module: nameLikeThis.module.js
+   * Templates: nameLikeThis.html
+   * Constants: ru.js/ua.js
+   * Services/Factory/Provider: nameLikeThis.js
+   * LESS:  nameLikeThis.less
+  
 **[⬆ back to top](#table-of-contents)**
 
-###Backbone Coding Standards
+###Angular Coding Standards
   - Use less logic in the templates.
   - Minimize manual jQuery DOM manipulation, the DOM fragments should be rendered through the View objects.
-  - All dependencies must go through RequireJS require() or define() functions. No global state.
+  - All dependencies must go through  main Module.
   
 **[⬆ back to top](#table-of-contents)**
 
