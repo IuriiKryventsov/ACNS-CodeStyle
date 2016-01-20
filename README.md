@@ -25,10 +25,10 @@
   1. [Constructors](#constructors)
   1. [Events](#events)
   1. [jQuery](#jquery)
-  1. [NS specific](#specific)
+  1. [LZ specific](#specific)
       - [File Naming Conventions](#file-naming-conventions)
-      - [Backbone Coding Standards](#backbone-coding-standards)
-      - [NS Best Practices](#ns-best-practices)
+      - [Angular Coding Standards](#backbone-coding-standards)
+      - [LZ Best Practices](#ns-best-practices)
   1. [License](#license)
   
 
